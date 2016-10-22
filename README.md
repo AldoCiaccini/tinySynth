@@ -1,3 +1,3 @@
 # tinySynth
-Basic VSTi Synthetizer using JUCE. 
-Inside \download directory the compiled code.
+basic VSTi Synthetizer using JUCE. 
+read instruction.pdf for the project details and setup 
